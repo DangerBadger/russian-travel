@@ -1,0 +1,25 @@
+.header__caption {
+  font-style: normal;
+  font-weight: 400;
+  font-size: 10px;
+  line-height: 14px;
+  /* identical to box height, or 140% */
+  letter-spacing: 1.5px;
+  text-transform: uppercase;
+  color: #fff;
+  padding: 0;
+  margin: 8px 0 0 0;  
+  text-align: start;
+}
+
+@media screen and (max-width: 1023px) {
+  .header__caption {
+    margin: 8px 0 0 24px;  
+  }
+}
+
+@media screen and (max-width: 449px) {
+  .header__caption {
+    margin: 5px 0 0 16px;  
+  }
+}

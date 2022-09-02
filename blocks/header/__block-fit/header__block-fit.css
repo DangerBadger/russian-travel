@@ -1,0 +1,31 @@
+.header__block-fit {
+  padding: 0;
+  margin: 64px auto 0;
+}
+
+@media screen and (max-width: 1279px) {
+  .header__block-fit {
+    margin: 56px 48px 0;
+    align-self: center;
+ }
+}
+
+@media screen and (max-width: 1023px) {
+  .header__block-fit {
+    margin: 56px auto 0;
+    align-self: center;
+ }
+}
+
+@media screen and (max-width: 767px) {
+  .header__block-fit {
+    margin: 50px auto 0;
+  }
+}
+
+@media screen and (max-width: 449px) {
+  .header__block-fit {
+    padding: 0;
+    margin: 40px auto 0;
+  }
+}
