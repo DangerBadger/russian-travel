@@ -13,8 +13,12 @@
   transition: opacity 0.3s linear 0.05s;
 }
 
+.header__lang-link:first-of-type {
+  padding: 0 0 3px 0;
+}
+
 .header__lang-link:hover {
-  opacity: 0.2;
+  opacity: 0.8;
 }
 
 @media screen and (max-width: 449px) {
