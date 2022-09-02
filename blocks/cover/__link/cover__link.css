@@ -8,9 +8,7 @@
   margin: 0 auto 0;
   flex-direction: column;
   text-decoration: none;
-
   background-image: url('../../../images/cover-trains.jpg');
-  background-size: auto;
   background-repeat: no-repeat;
   background-size: 1184px auto;
 }
