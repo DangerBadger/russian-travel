@@ -1,0 +1,7 @@
+.header__links-item {
+  padding: 0 0 5px 18px;
+}
+
+.header__links-item:first-of-type {
+  padding: 0 0 5px 0;
+}
